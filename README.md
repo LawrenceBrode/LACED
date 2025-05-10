@@ -46,5 +46,32 @@ The LACED™ technique was developed with the following goals in mind:
 > LACED lowers the entry barrier to advanced PCB analysis and digital preservation.
 > It empowers individuals to explore, understand, and protect hardware — not with money, but with ingenuity, precision, and intent.
 
+## Introduction
 
+### Context & Origin
+This process was born from a very specific need:
+gaining access to the internal layers of multilayer PCBs for reverse engineering.
+
+At first, I theorized that a 5W UV diode laser could be used to remove the soldermask without having to do it manually — eliminating the need for sandpaper and the inconsistent pressure of a human hand, which often leads to uneven surface removal.
+
+Then came the realization:
+the laser could also ablate the FR4 itself.
+That’s when a deeper idea took shape — what if I could use the laser to remove all layers of FR4 and dielectric material with consistent precision, rather than relying on error-prone manual sanding?
+
+But very quickly, I hit a fundamental physical limitation: copper.
+
+The copper traces on the board would not be affected by the laser.
+And even if I increased power to the point of engraving copper, the material’s thermal properties are so different from FR4 that I would overburn the substrate while barely affecting the copper itself.
+
+That’s when a new idea struck:
+I remembered how PCBs are fabricated — a process I had replicated at home.
+In standard manufacturing, a uniform copper layer is coated with a photoresist, then selectively etched with acid, leaving only the designed traces.
+
+What if we inverted the logic and used acid not to preserve the traces, but to remove them completely?
+
+With this shift, the theoretical workflow became clear:
+laser-assisted soldermask removal, acid-based copper etching, and layer-by-layer FR4 ablation.
+A fully controlled, repeatable process — at least in theory.
+
+> And as my friend Oppenheimer once said, “Theory only gets you so far.”
 
