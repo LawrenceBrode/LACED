@@ -219,6 +219,11 @@ Do not inhale fumes and avoid any contact with the solution.
 Always protect your eyes and respiratory system, and carry out this step outdoors or in a well-ventilated area.
 A solution at this temperature is capable of breaking down organic material in a matter of minutes.
 
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/IMG_3027.jpg" width="200">
 
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/IMG_3026.jpg" width="200">
 
+##### Result:
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/IMG_3029.jpg" width="400">
 
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/IMG_3031.jpg" width="400">
