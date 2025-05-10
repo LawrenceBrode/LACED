@@ -122,3 +122,74 @@ And that’s why I say:
 ##### Successful test on a SSD PCB
 <img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/sucessefulSSD.jpeg" width="300">
 
+## Tools and Materials
+
+The following tools and chemicals were used to perform the LACED™ delayering process.
+All items are low-cost, widely available, and suitable for a compact home lab setup.
+
+🔧 Hardware & Instruments
+
+##### ATOMSTACK A5 Diode Laser – 5W
+
+~€160 — Entry-level CNC laser engraver with adjustable speed/power and good stability for micron-scale ablation.
+
+##### Generic Micrometer – 1 µm resolution
+
+~€10–15 — Used for precise measurement of PCB thickness after each pass.
+
+##### Protective Laser Goggles
+
+Included with the laser machine — Essential for eye protection during engraving.
+
+🧪 Chemicals
+
+##### Sodium Hydroxide (NaOH), 1 kg
+
+~€5 — Used for soldermask softening and initial surface preparation.
+
+##### Hydrochloric Acid (HCl), 32%, 1 L
+
+~€1.50 — Primary agent for copper etching.
+
+##### Hydrogen Peroxide (H₂O₂), 3%, 0.3 L (higher concentration >15% recommended)
+
+~€2 — Used in combination with HCl for controlled etching of copper.
+
+##### Acetone (C₃H₆O), 0.5 L
+
+~€4 — Used for final cleaning and degreasing of PCB surfaces.
+
+> Total estimated cost: under €200. For a fully functional, repeatable delayering lab — no cleanroom required.
+
+## Chemical Insights
+
+### 🧪 Sodium Hydroxide (NaOH)
+Role: Soldermask softening and surface preparation
+Sodium hydroxide is used to weaken and partially dissolve the soldermask layer, especially on PCBs with hard, cured resins.
+It allows for easier removal via laser or abrasion by breaking down polymer bonds. NaOH also helps to degrease and open the surface, improving the penetration of etching agents in subsequent steps.
+
+> Caution: NaOH is highly caustic — always use gloves and eye protection.
+
+### 🧪 Hydrochloric Acid (HCl, 32%)
+Role: Copper etching
+Hydrochloric acid is the primary etchant used in combination with hydrogen peroxide.
+While not aggressive toward FR4 or soldermask, it reacts readily with metallic copper.
+Its effectiveness increases when paired with H₂O₂, enabling selective, controllable dissolution of copper layers, even under semi-transparent resin.
+
+> The reaction produces heat and gas — use in well-ventilated areas.
+
+### 🧪 Hydrogen Peroxide (H₂O₂, 3%–15%)
+Role: Oxidizing agent for copper etching
+Hydrogen peroxide provides the oxidizing power needed to accelerate the reaction between HCl and copper.
+Higher concentrations (>15%) significantly improve etching speed and reduce undercutting.
+It also enhances copper contrast for visual inspection during partial etching phases.
+
+> For best results, use fresh peroxide and avoid light exposure.
+
+### 🧪 Acetone (C₃H₆O)
+Role: Post-laser cleaning and carbon residue removal
+Acetone is used to clean the PCB after each laser pass, removing soot, carbonized epoxy, and organic residues.
+This step ensures clear visibility, uniform laser interaction, and prevents thermal buildup caused by leftover debris.
+Its strong solvency restores the board’s optical clarity before measurement or acid treatment.
+
+> Evaporates quickly; apply in well-ventilated areas and avoid flames.
