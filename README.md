@@ -115,3 +115,10 @@ The process is now stable and predictable, thanks to those early failures.
 And that’s why I say:
 
 > Failure builds precision.
+
+##### Early test on a SSD PCB with traces affected by unintended delamination due to carbonization
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/damagedSSD.jpeg" width="300">
+
+##### Successful test on a SSD PCB
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/sucessefulSSD.jpeg" width="300">
+
