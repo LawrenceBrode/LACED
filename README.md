@@ -248,3 +248,26 @@ The etching solution is composed of approximately 250 g of hydrogen peroxide (3%
 <img src="https://github.com/LawrenceBrode/LACED/blob/main/edited/layer1copperless.jpg" width="400">
 
 <img src="https://github.com/LawrenceBrode/LACED/blob/main/edited/layer6copperless.jpg" width="400">
+
+### Step 5: Laser setup
+
+In this phase, we configure the laser settings through dedicated software.
+For this project, I used LaserGRBL, a free and lightweight tool for managing CNC laser paths.
+
+While I won’t go into detail about how to generate the CNC masking paths, I will focus on the core settings used to achieve consistent, high-precision results:
+
+Nominal Laser Power: 5 Watts
+
+Active Power Setting: 250/1000 (~1.25 W)
+
+Resolution: 10 lines per millimeter
+
+Engraving Speed: 2000 mm/min
+
+> These parameters were carefully calibrated to ensure controlled ablation of the FR4 substrate without damaging copper traces or underlying layers.
+
+> Based on average measurements, this configuration achieves an ablation depth of approximately 12.75 microns per pass.
+Higher precision can be obtained by either reducing the laser power or increasing the engraving speed.
+The finest resolution recorded during testing was 3.2 microns per pass.
+
+### Step 6: engraving cycle
