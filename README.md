@@ -33,7 +33,7 @@ The LACED™ technique was developed with the following goals in mind:
 5.  **Emotional Purpose**  
      To explore not only circuitry, but memory — by uncovering physical messages hidden between PCB layers, turning reverse engineering into an act of personal and artistic expression.
 
-Key Results & Why It Matters
+### Key Results & Why It Matters
 ✅ Achieved physical precision between 3.5 and 10 microns, using a low-cost CNC diode laser (5W), micrometer tracking, and basic chemical etching — all performed in a home environment.
 
 ✅ Successfully exposed internal copper layers of a 6-layer PCB, proving that high-resolution delayering can be accomplished without industrial tools like FIB systems or pro-grade milling stations.
