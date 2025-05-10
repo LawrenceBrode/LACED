@@ -227,3 +227,24 @@ A solution at this temperature is capable of breaking down organic material in a
 <img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/IMG_3029.jpg" width="400">
 
 <img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/IMG_3031.jpg" width="400">
+
+### Step 3: scanning the soldermask-less PCB
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/edited/layer1soldermaskless.jpg" width="400">
+
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/edited/layer6soldermaskless.jpg" width="400">
+
+### Step 4: Copper Removal (HCl+H2O2+H2O)
+In the fourth step, we remove the first and sixth copper layers using a chemical-only approach.
+The etching solution is composed of approximately 250 g of hydrogen peroxide (3%), 100 g of hydrochloric acid (32%), and about 50 g of water heated to 80 °C to enhance the overall energy of the solution and accelerate the reaction.
+
+> Adding hot water increases the thermal energy of the mixture, which boosts the chemical reaction rate without the risks of directly heating reactive components. This method helps achieve a faster and more uniform copper removal, especially when working with larger surface areas.
+
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/IMG_3032.jpg" width="200">
+
+##### The PCB during the etching process
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/IMG_3034.jpg" width="200">
+
+##### The PCB post etching (scan)
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/edited/layer1copperless.jpg" width="400">
+
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/edited/layer6copperless.jpg" width="400">
