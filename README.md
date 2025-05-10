@@ -75,3 +75,43 @@ A fully controlled, repeatable process — at least in theory.
 
 > And as my friend Oppenheimer once said, “Theory only gets you so far.”
 
+### How This Differs from Traditional Approaches
+Traditional manual sanding — using fine sandpaper to gradually expose PCB layers — has long been the go-to method for low-budget delayering. While it’s simple and doesn’t require sophisticated tools, it suffers from major limitations:
+
+❌ Inconsistent pressure from the hand leads to uneven layer removal.
+
+❌ Risk of over-sanding or skipping layers, especially when approaching internal copper.
+
+❌ Lack of precision tracking — no reliable way to measure removal depth micron by micron.
+
+❌ Requires experience and luck to achieve uniformity across the board.
+
+❌ Irreversible damage is common when targeting a specific layer.
+
+LACED™ eliminates these issues by replacing guesswork with control.
+
+✅ Uses a low-power CNC diode laser to ensure consistent surface processing across the entire PCB.
+
+✅ Incorporates micrometer-based depth tracking after each pass.
+
+✅ Combines chemical copper removal to avoid thermal stress and material distortion.
+
+✅ Achieves repeatable results down to 3.5–10 µm, far beyond manual sanding tolerances.
+
+✅ Allows precise stopping at specific layers without overshooting.
+
+> In short: manual sanding relies on intuition and hope. LACED relies on precision and repeatability.
+
+## The Greatest Challenge in LACED
+One of the most critical and frustrating challenges in the LACED process was the unintentional damage to copper traces — especially the finer ones — during laser carbonization of the FR4 substrate.
+
+When using a diode laser to ablate the surface, excessive heating of the FR4 can occur. This heat, in turn, radiates into nearby areas, often beneath the copper traces. The result: localized carbonization and mechanical delamination of the copper, causing the traces to lift, warp, or detach.
+
+This issue was particularly severe in the early phases, when I was still calibrating laser power and speed parameters. It was not just a technical setback — it was deeply frustrating, because it often ruined boards that had taken hours of precise work.
+
+But today, that challenge has been overcome.
+
+The process is now stable and predictable, thanks to those early failures.
+And that’s why I say:
+
+> Failure builds precision.
