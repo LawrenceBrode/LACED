@@ -193,3 +193,6 @@ This step ensures clear visibility, uniform laser interaction, and prevents ther
 Its strong solvency restores the board’s optical clarity before measurement or acid treatment.
 
 > Evaporates quickly; apply in well-ventilated areas and avoid flames.
+
+## Methodology - Step-by-step process of LACED
+> NOTE: For clarity and readability, all intermediate measurements taken between optical passes are documented in the following chapters rather than inline with each step.
