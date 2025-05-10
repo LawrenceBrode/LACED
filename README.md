@@ -270,4 +270,24 @@ Engraving Speed: 2000 mm/min
 Higher precision can be obtained by either reducing the laser power or increasing the engraving speed.
 The finest resolution recorded during testing was 3.2 microns per pass.
 
-### Step 6: engraving cycle
+### Step 6: Laser Engraving Cycle
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/IMG_3036.jpg" width="400">
+
+This process was carried out over 10 laser passes, though the removal depth was not perfectly consistent across all cycles. Variations were likely caused by minor surface irregularities, non-uniform PCB layering, and subtle fluctuations in laser focus.
+
+Additionally, as the ablation approached the copper layers, the removal depth per pass tended to decrease slightly — most likely due to the higher thermal conductivity of copper, which dissipates heat more effectively and limits localized burn-in.
+
+The PCB, measuring 5×5 cm, required approximately 15 minutes per pass. After each cycle, the surface was cleaned thoroughly using a soft brush and acetone, to remove carbonized residue and ensure optimal laser interaction for the following pass.
+
+> NOTE: After nine laser passes, the copper layer was nearly exposed. At this stage, a multimeter reading showed a resistance of approximately 120 MΩ, indicating a near-contact condition.
+Following the tenth pass, the copper was fully exposed, and the measured resistance dropped significantly to 0.7 Ω, confirming direct electrical continuity.
+
+### Step 7: Cleaning and Scanning
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/IMG_3047.jpg" width="600">
+
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/IMG_3043.jpg" width="600">
+
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/edited/layer2.jpg" width="400">
+
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/edited/layer2gray.jpg" width="400">
+
