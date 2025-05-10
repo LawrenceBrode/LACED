@@ -291,3 +291,5 @@ Following the tenth pass, the copper was fully exposed, and the measured resista
 
 <img src="https://github.com/LawrenceBrode/LACED/blob/main/edited/layer2gray.jpg" width="400">
 
+> Finally, the text that was originally hidden within Layer 2 is now perfectly visible — demonstrating both the practical utility and the precision of the LACED™ process.
+
