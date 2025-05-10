@@ -196,3 +196,29 @@ Its strong solvency restores the board’s optical clarity before measurement or
 
 ## Methodology - Step-by-step process of LACED
 > NOTE: For clarity and readability, all intermediate measurements taken between optical passes are documented in the following chapters rather than inline with each step.
+
+### Step 1: scanning the PCB
+
+The first critical step is scanning the PCB before making any modifications.
+In the context of reverse engineering, it's essential to preserve and archive every trace of information — no matter how small.
+
+> Please excuse the image quality: at the time, I was limited to a 600 DPI scanner, but completeness took priority over perfection.
+
+##### layer 1
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/edited/layer1.jpg" width="400">
+
+##### layer 6
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/edited/layer6.jpg" width="400">
+
+### Step 2: Soldermask Removal
+The second step involves removing the soldermask layer, using a purely chemical process rather than a mechanical one.
+Approximately 200 grams of sodium hydroxide (NaOH) are dissolved in 500 mL of water heated to around 80 °C to accelerate the reaction.
+
+>⚠️ Warning:
+Do not inhale fumes and avoid any contact with the solution.
+Always protect your eyes and respiratory system, and carry out this step outdoors or in a well-ventilated area.
+A solution at this temperature is capable of breaking down organic material in a matter of minutes.
+
+
+
+
