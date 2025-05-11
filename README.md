@@ -446,4 +446,36 @@ LACED relies on vision.
 
 And that, too, is a kind of precision.
 
+## Applications & Future Scenarios
+Though born in a bedroom lab, LACED opens doors to practical and high-impact use cases across multiple fields. Its unique balance of precision, accessibility, and low cost makes it a powerful tool not just for experimentation — but for real-world problem solving.
 
+🔓 Chip-Level Penetration Testing
+When paired with other techniques such as decapsulation or side-channel probing, LACED provides the mechanical and chemical groundwork needed to access internal interconnects and layers for:
+
+Tracing data pathways
+
+Verifying silicon-to-board interactions
+
+Preparing for fault injection or glitching
+
+🧭 Historical Tech Preservation
+LACED offers a way to document and preserve legacy hardware with layer-by-layer precision, especially when datasheets or source designs are no longer available.
+This is particularly relevant for:
+
+Retro computing and console archiving
+
+Reverse engineering of discontinued components
+
+Open-source documentation of technological heritage
+
+📚 Educational & Maker Community Potential
+Perhaps the most exciting future for LACED lies in democratized learning.
+Because the entire process is reproducible with tools under €200, schools, universities, and independent makers can:
+
+Explore PCB architecture firsthand
+
+Develop safe, structured experimentation paths
+
+Inspire students to engage with real hardware, not just theory
+
+LACED turns the inaccessible into a playground for curious minds.
