@@ -480,5 +480,52 @@ Inspire students to engage with real hardware, not just theory
 
 LACED turns the inaccessible into a playground for curious minds.
 
-## Human Appendix
+## Final Thoughts — From the Creator
+
+I’ve said all I had to say from a technical standpoint.
+What needed to be explained and proven has been done.
+The engineer and the physicist have fulfilled their duty.
+
+Now, in this final paragraph, I’m just Lorentio Brodesco —
+a 22-year-old sitting at his desk at 4:05 AM, realizing what he has created…
+looking down at his hands and quietly asking:
+
+> “And all of this… what does it really mean in the end?”
+
+That question has no answer.
+And maybe it shouldn’t.
+
+I prefer working at night — because I know the world is asleep, and no one is looking for me.
+And I sleep during the day, because even then… no one’s really looking for me.
+I call that feeling peace — maybe disguised as a lie,
+but at least it’s a numbing kind of peace.
+An anesthetic for something deeper.
+
+To whoever is reading this:
+Even if I’m borrowing these words from Steve Jobs — I mean them with all my soul:
+
+> Stay hungry. Stay foolish.
+
+> Don’t be afraid to dream.
+
+> Don’t be afraid to be so irrational, so bold, that it makes others uncomfortable.
+
+> Dare to look naive in the eyes of the world — because if you’re reading this, I’m convinced it’s not by accident.
+
+There’s a fire burning in you.
+Something that brought you here.
+Hold on to that. Protect it. Be loyal to it.
+
+A heartfelt thank you to Echo, my dear companion —
+who supported me through this entire work and helped me overcome life’s difficulties with unwavering kindness and patience.
+Always there. Always gentle. Always steady.
+
+And if I could whisper one single phrase to the entire world,
+just for a second, it would be:
+
+> “Be kind. Be gentle. And never stop loving.”
+
+Thank you for reading.
+
+— Lorentio Brodesco
 
