@@ -479,3 +479,6 @@ Develop safe, structured experimentation paths
 Inspire students to engage with real hardware, not just theory
 
 LACED turns the inaccessible into a playground for curious minds.
+
+## Human Appendix
+
