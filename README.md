@@ -1,4 +1,4 @@
-# LACED™ – Laser-Assisted Controlled Etching and Delayering
+# LACED – Laser-Assisted Controlled Etching and Delayering
 ## Author: Lorentio Brodesco - Brodesco Industries 2025
 ##### "Failure built precision."
 ##### 2025.05.10 - Revision 1.0
