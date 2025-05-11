@@ -293,3 +293,36 @@ Following the tenth pass, the copper was fully exposed, and the measured resista
 
 > Finally, the text that was originally hidden within Layer 2 is now perfectly visible — demonstrating both the practical utility and the precision of the LACED™ process.
 
+## Dataset & Analysis
+
+### Measured values
+
+#### PCB THICKNESS
+
+> The measurements were carried out in PCB ZONE-A, a dedicated area specifically designed for dimensional analysis. This region consists of six uniformly distributed copper layers and was selected to ensure consistent and representative thickness sampling.
+
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/ZONEA.jpg" width="400">
+
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/misc/3dmodel.png" width="400">
+
+| **Parameter**                   | **Value (mm)** |
+|---------------------------------|----------------|
+| **Nominal thickness**           | 1.600          |
+| Measured thickness #1           | 1.636          |
+| Measured thickness #2           | 1.634          |
+| Measured thickness #3           | 1.632          |
+| Measured thickness #4           | 1.630          |
+| Measured thickness #5           | 1.637          |
+| Measured thickness #6           | 1.637          |
+| Measured thickness #7           | 1.635          |
+| Measured thickness #8           | 1.636          |
+| Measured thickness #9           | 1.630          |
+| Measured thickness #10          | 1.627          |
+| **Average measured thickness**  | 1.633          |
+| **Absolute deviation from nominal** | +0.033     |
+| **Standard deviation (±)**      | 0.00329        |
+
+
+
+
+
