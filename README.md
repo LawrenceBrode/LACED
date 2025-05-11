@@ -297,7 +297,7 @@ Following the tenth pass, the copper was fully exposed, and the measured resista
 
 ### Measured values
 
-#### PCB THICKNESS
+#### Measured PCB Thickness (Copper + FR4 + Soldermask)
 
 > The measurements were carried out in PCB ZONE-A, a dedicated area specifically designed for dimensional analysis. This region consists of six uniformly distributed copper layers and was selected to ensure consistent and representative thickness sampling.
 
@@ -321,6 +321,11 @@ Following the tenth pass, the copper was fully exposed, and the measured resista
 | **Average measured thickness**  | 1.633          |
 | **Absolute deviation from nominal** | +0.033     |
 | **Standard deviation (±)**      | 0.00329        |
+
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/graphs/thicknessPCB.png" width="600">
+
+##### Measured PCB Thickness (Copper + FR4, Without Soldermask)
+
 
 
 
