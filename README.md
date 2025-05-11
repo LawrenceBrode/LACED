@@ -353,6 +353,33 @@ This confirms that our experimental results closely match the nominal values, re
 
 > Manufacturer data source: JLCPCB (official soldermask specifications)
 
+#### Measured PCB Thickness (FR4, Without Soldermask and copper)
+
+| **Parameter**                                   | **Value (mm)** |
+|-------------------------------------------------|----------------|
+| Measured thickness #1                           | 1.516          |
+| Measured thickness #2                           | 1.506          |
+| Measured thickness #3                           | 1.507          |
+| Measured thickness #4                           | 1.516          |
+| Measured thickness #5                           | 1.508          |
+| Measured thickness #6                           | 1.516          |
+| Measured thickness #7                           | 1.507          |
+| Measured thickness #8                           | 1.514          |
+| Measured thickness #9                           | 1.506          |
+| Measured thickness #10                          | 1.512          |
+| **Average measured thickness (no copper)**      | 1.5108         |
+| **Standard deviation (±)**                      | 0.00419        |
+| **Delta from soldermask-removed (1.5775 mm)**   | −0.0667        |
+
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/graphs/withoutCopper.png" width="600">
+
+After the chemical removal of copper from layers 1 and 6, measurements revealed a total thickness reduction of 66.7 microns — corresponding to approximately 33.35 microns per copper layer.
+This result is fully consistent with the manufacturer’s stated copper specification of 1 oz per ft², which translates to a nominal thickness of 35 microns per layer.
+The close match validates both the etching process and the accuracy of our measurement protocol.
+
+
+
+
 
 
 
