@@ -1,0 +1,152 @@
+proprietà: PCB 6 STRATI
+spessore nominale: 1.6 mm
+spessore banda-a con soldermask:  	1.636 mm
+					1.634 mm
+					1.632 mm
+					1.630 mm
+					1.637 mm
+					1.637 mm
+					1.635 mm
+					1.636 mm
+					1.630 mm
+					1.627 mm
+
+spesspre banda-a senza soldermask:	1.581 mm
+					1.574 mm
+					1.575 mm
+					1.581 mm
+					1.584 mm
+					1.572 mm
+					1.576 mm
+					1.580 mm
+					1.578 mm
+					1.574 mm
+
+
+Media con soldermask: 1.6334 mm
+
+Deviazione standard con soldermask: ±0.00329 mm
+
+Media senza soldermask: 1.5775 mm
+
+Deviazione standard senza soldermask: ±0.00369 mm
+
+strato singolo di soldermask: 0.028 mm (28 micron)
+
+misure strati 1 e 6 rimossi:		1.516 mm
+					1.506 mm
+					1.507 mm
+					1.516 mm
+					1.508 mm
+					1.516 mm
+					1.507 mm
+					1.514 mm
+					1.506 mm
+					1.512 mm
+
+Spessore medio residuo della PCB (-soldermask, -rame): 1.5108 mm
+
+differenza spessore rame/non rame (ambo lati): 		0.0667 mm (66.7 micron)
+
+misura spessore rame nominale: 1 oz (35 micron)
+
+misura spessore rame calcolato: 			0.03335 mm (33.4 micron)	
+
+misura rimozione fr4 con singolo passaggio (10 line/mm - 2000mm/min - 250/1000 5W):			1.516 mm
+													1.508 mm
+													1.506 mm
+													1.516 mm
+													1.509 mm
+													1.515 mm
+													1.508 mm
+													1.513 mm
+													1.508 mm
+													1.512 mm
+	
+misura secondo passaggio:	1.507 mm
+				1.500 mm
+				1.498 mm
+				1.510 mm
+				1.511 mm
+				1.500 mm
+				1.501 mm
+				1.507 mm
+				1.508 mm
+				1.500 mm
+
+misura terzo passaggio:		1.490 mm
+				1.486 mm
+				1.487 mm
+				1.492 mm
+				1.489 mm
+				1.495 mm
+				1.487 mm
+				1.494 mm
+				1.491 mm
+				1.483 mm
+
+misura quarto passaggio:	1.478 mm
+				1.472 mm
+				1.479 mm
+				1.474 mm
+				1.474 mm
+				1.484 mm
+				1.481 mm
+				1.474 mm
+				1.467 mm
+
+misura quinto passaggio:	1.453 mm
+				1.449 mm
+				1.448 mm
+				1.456 mm
+				1.456 mm
+				1.452 mm
+				1.456 mm
+				1.446 mm
+				1.444 mm
+				1.453 mm
+
+misura sesto passaggio:		1.444 mm
+				1.436 mm
+				1.436 mm
+				1.444 mm
+				1.447 mm
+				1.440 mm
+				1.437 mm
+				1.448 mm
+				1.444 mm
+				1.438 mm
+
+misura ottavo passaggio:	1.441 mm
+				1.434 mm
+				1.434 mm
+				1.437 mm
+				1.446 mm
+				1.442 mm
+				1.435 mm
+				1.446 mm
+				1.439 mm
+				1.429 mm
+
+misura nono passaggio:		1.435 mm
+				1.429 mm
+				1.428 mm
+				1.432 mm
+				1.435 mm
+				1.431 mm
+				1.429 mm
+				1.434 mm
+				1.432 mm
+				1.424 mm
+
+misura decimo passaggio:	1.432 mm
+				1.427 mm
+				1.423 mm
+				1.430 mm
+				1.433 mm
+				1.425 mm
+				1.422 mm
+				1.433 mm
+				1.430 mm
+				1.422 mm
+
