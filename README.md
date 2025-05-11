@@ -377,9 +377,26 @@ After the chemical removal of copper from layers 1 and 6, measurements revealed 
 This result is fully consistent with the manufacturer’s stated copper specification of 1 oz per ft², which translates to a nominal thickness of 35 microns per layer.
 The close match validates both the etching process and the accuracy of our measurement protocol.
 
+#### Measured PCB Thickness (FR4 laser engraving cycles)
+
+| **#** | **Pass 1** | **Pass 2** | **Pass 3** | **Pass 4** | **Pass 5** | **Pass 6** | **Pass 8** | **Pass 9** | **Pass 10** |
+|------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|------------:|
+| 1     | 1.516      | 1.507      | 1.490      | 1.478      | 1.453      | 1.444      | 1.441      | 1.435      | 1.432       |
+| 2     | 1.508      | 1.500      | 1.486      | 1.472      | 1.449      | 1.436      | 1.434      | 1.429      | 1.427       |
+| 3     | 1.506      | 1.498      | 1.487      | 1.479      | 1.448      | 1.436      | 1.434      | 1.428      | 1.423       |
+| 4     | 1.516      | 1.510      | 1.492      | 1.474      | 1.456      | 1.444      | 1.437      | 1.432      | 1.430       |
+| 5     | 1.509      | 1.511      | 1.489      | 1.474      | 1.456      | 1.447      | 1.446      | 1.435      | 1.433       |
+| 6     | 1.515      | 1.500      | 1.495      | 1.484      | 1.452      | 1.440      | 1.442      | 1.431      | 1.425       |
+| 7     | 1.508      | 1.501      | 1.487      | 1.481      | 1.456      | 1.437      | 1.435      | 1.429      | 1.422       |
+| 8     | 1.513      | 1.507      | 1.494      | 1.474      | 1.446      | 1.448      | 1.446      | 1.434      | 1.433       |
+| 9     | 1.508      | 1.508      | 1.491      | 1.467      | 1.444      | 1.444      | 1.439      | 1.432      | 1.430       |
+| 10    | 1.512      | 1.500      | 1.483      |            | 1.453      | 1.438      | 1.429      | 1.424      | 1.422       |
 
 
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/graphs/engraving.png" width="600">
 
+Taking into account all measurement cycles — and considering factors such as inherent FR4 inconsistencies, thermal absorption effects near exposed copper, and slight surface irregularities on the laser workbench — the average material removal per pass has been determined to be approximately 10 microns.
+This value reflects the combined precision of the process under realistic experimental conditions.
 
 
 
