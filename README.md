@@ -342,6 +342,8 @@ Following the tenth pass, the copper was fully exposed, and the measured resista
 | **Standard deviation (±)**          | 0.00369        |
 | **Delta from soldermask-included average (1.633 mm)** | −0.0555 |
 
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/graphs/withoutSoldermask.png" width="600">
+
 Based on the measurements, the observed delta of −56 microns indicates an average soldermask thickness of approximately 28 microns per side.
 Given that Zone-A contains a broad and uninterrupted copper surface, we assumed the soldermask distribution to be equivalent to that over bare FR4, rather than over narrow copper traces — which often have localized variations.
 According to the manufacturer’s datasheet, the standard soldermask thickness is specified as 1.2 mils (0.030 mm or 30 microns).
