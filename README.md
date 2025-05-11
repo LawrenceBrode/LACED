@@ -324,8 +324,32 @@ Following the tenth pass, the copper was fully exposed, and the measured resista
 
 <img src="https://github.com/LawrenceBrode/LACED/blob/main/graphs/thicknessPCB.png" width="600">
 
-##### Measured PCB Thickness (Copper + FR4, Without Soldermask)
+#### Measured PCB Thickness (Copper + FR4, Without Soldermask)
 
+| **Parameter**                        | **Value (mm)** |
+|-------------------------------------|----------------|
+| Measured thickness #1               | 1.581          |
+| Measured thickness #2               | 1.574          |
+| Measured thickness #3               | 1.575          |
+| Measured thickness #4               | 1.581          |
+| Measured thickness #5               | 1.584          |
+| Measured thickness #6               | 1.572          |
+| Measured thickness #7               | 1.576          |
+| Measured thickness #8               | 1.580          |
+| Measured thickness #9               | 1.578          |
+| Measured thickness #10              | 1.574          |
+| **Average measured thickness**      | 1.5775         |
+| **Standard deviation (±)**          | 0.00369        |
+| **Delta from soldermask-included average (1.633 mm)** | −0.0555 |
+
+Based on the measurements, the observed delta of −56 microns indicates an average soldermask thickness of approximately 28 microns per side.
+Given that Zone-A contains a broad and uninterrupted copper surface, we assumed the soldermask distribution to be equivalent to that over bare FR4, rather than over narrow copper traces — which often have localized variations.
+According to the manufacturer’s datasheet, the standard soldermask thickness is specified as 1.2 mils (0.030 mm or 30 microns).
+This confirms that our experimental results closely match the nominal values, reinforcing the accuracy and validity of the process.
+
+<img src="https://github.com/LawrenceBrode/LACED/blob/main/rawDATA/jlcpcbSoldermask.png" width="600">
+
+> Manufacturer data source: JLCPCB (official soldermask specifications)
 
 
 
