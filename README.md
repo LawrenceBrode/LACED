@@ -406,5 +406,44 @@ At that stage, the resistance was still too high for full conductivity and fluct
 However, after completing the tenth laser pass, electrical continuity was confirmed, and the measured resistance dropped significantly, ranging between 0.4 and 0.7 Ω, consistent with direct copper contact.
 
 
+## Comparison with Industrial Methods
+(FIB, CNC, Pro-Grade Delayering)
+
+In the field of hardware reverse engineering and PCB forensics, the most commonly adopted delayering techniques include:
+
+FIB (Focused Ion Beam) milling – a high-resolution, high-cost process used primarily in semiconductor labs
+
+CNC micro-machining – effective but often limited by mechanical tool size, vibration, and surface irregularities
+
+Professional-grade chemical delayering – requiring controlled environments, proprietary mixtures, and significant overhead
+
+These methods offer exceptional precision, but at the cost of:
+
+💰 High capital investment
+
+🧪 Specialized environments and chemical handling protocols
+
+🛑 Limited accessibility to independent researchers, students, or low-budget labs
+
+### Where LACED Shines
+LACED isn't meant to replace these systems in industrial cleanrooms.
+Instead, it redefines what is possible when accessibility, ingenuity, and patience converge:
+
+| Feature              | FIB/CNC/Chemical | **LACED**                       |
+| -------------------- | ---------------- | ------------------------------- |
+| **Cost**             | \$50k–\$500k+    | < €200                          |
+| **Accessibility**    | Restricted       | Open, home-lab ready            |
+| **Precision**        | \~1 µm (FIB)     | 3–10 µm (laser-limited)         |
+| **Repeatability**    | High             | Moderate (requires calibration) |
+| **Material Support** | Advanced         | Optimized for FR4 + copper      |
+
+More Than Just Microns
+LACED outperforms not in raw numbers, but in philosophy:
+>It proves that meaningful, repeatable delayering can be achieved with household tools, open-source software, and determination.
+
+Where industry relies on infrastructure,
+LACED relies on vision.
+
+And that, too, is a kind of precision.
 
 
