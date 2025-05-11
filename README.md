@@ -399,5 +399,12 @@ Taking into account all measurement cycles — and considering factors such as i
 This value reflects the combined precision of the process under realistic experimental conditions.
 
 
+#### Electrical Conductivity and Resistance
+
+> As previously mentioned, after the ninth laser pass — upon observing the exposed copper layer nearing the surface — a continuity test was performed using a multimeter.
+At that stage, the resistance was still too high for full conductivity and fluctuated between 60 and 200 MΩ, indicating incomplete copper exposure.
+However, after completing the tenth laser pass, electrical continuity was confirmed, and the measured resistance dropped significantly, ranging between 0.4 and 0.7 Ω, consistent with direct copper contact.
+
+
 
 
